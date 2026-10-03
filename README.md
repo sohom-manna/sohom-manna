@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Sohom Manna 👋
 
-<!--
-**sohom-manna/sohom-manna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineer
 
-Here are some ideas to get you started:
+I'm an Electronics & Communication Engineering graduate with interests in
+Embedded Systems, IoT, Communication Systems and Engineering Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical engineering projects and exploring the intersection
+of hardware, communication and programming.
+
+---
+
+## 🔧 Technical Skills
+
+- **Programming:** C, C++, Python, MATLAB
+- **Embedded & IoT:** Arduino, ESP8266, Sensors
+- **Communication:** Digital Communication, DSP, BPSK, QPSK, AWGN
+- **Tools:** MATLAB, Simulink, Arduino IDE, VS Code, KiCad
+- **Other:** PLC, SCADA, Circuit Design
+
+---
+
+## 🚀 Featured Projects
+
+### 💡 Smart Street Light System
+IoT-based automated lighting system using ESP8266 and LDR sensors,
+with cloud-based monitoring through ThingSpeak.
+
+### 📡 Digital Communication System Simulation
+MATLAB-based simulation of BPSK and QPSK systems with AWGN channel
+modelling, Monte Carlo simulation and BER performance analysis.
+
+---
+
+## 💼 Experience
+
+**Telecom Intern — Bharat Sanchar Nigam Limited (BSNL)**  
+June 2025 – July 2025
+
+Worked with telecom network infrastructure, GSM systems,
+optical fiber transmission and field-level operations.
+
+---
+
+## 🎓 Education
+
+**B.Tech in Electronics & Communication Engineering**  
+College of Engineering & Management, Kolaghat  
+2022 – 2026
+
+---
+
+## 📜 Certification
+
+**Advanced Telecom Technology Training — BSNL**  
+2025
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Sohom Manna](linkedin.com/in/sohom-manna-89740a275)
+- Email: sohommanna2002@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
