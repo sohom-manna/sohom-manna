@@ -16,6 +16,8 @@ of hardware, communication and programming.
 - **Embedded & IoT:** Arduino, ESP8266, Sensors
 - **Communication:** Digital Communication, DSP, BPSK, QPSK, AWGN
 - **Tools:** MATLAB, Simulink, Arduino IDE, VS Code, KiCad
+- **Patent & Technology Analysis:** Patent Search Methodologies, Prior Art Search, Patentability/Novelty Search, FTO/Clearance
+  Search, Validity/Invalidity Search, State-of-the-Art Search, Patent Landscape Analysis, Patent Watch & Monitoring.
 - **Other:** PLC, SCADA, Circuit Design
 
 ---
@@ -54,6 +56,9 @@ College of Engineering & Management, Kolaghat
 
 **Advanced Telecom Technology Training — BSNL**  
 2025
+
+**Global Patent Analysts — LawSikho**  
+2026
 
 ---
 
