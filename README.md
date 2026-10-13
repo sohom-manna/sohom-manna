@@ -32,6 +32,9 @@ with cloud-based monitoring through ThingSpeak.
 MATLAB-based simulation of BPSK and QPSK systems with AWGN channel
 modelling, Monte Carlo simulation and BER performance analysis.
 
+### 🛰️ GNSS Signal Generation and Acquisition Simulation
+MATLAB/GNU Octave simulation of GPS L1 C/A signal generation and acquisition, featuring PRN code generation, code-phase and Doppler estimation, AWGN, multipath analysis, and automated testing.
+
 ---
 
 ## 💼 Experience
