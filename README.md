@@ -53,6 +53,10 @@ optical fiber transmission and field-level operations.
 College of Engineering & Management, Kolaghat  
 2022 – 2026
 
+**Higher Secondary**
+Tamluk Hamilton High School  
+2020 – 2022
+
 ---
 
 ## 📜 Certification
